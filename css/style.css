@@ -4,7 +4,7 @@ div {border:solid}
 
 #dog {display:flex; flex-direction: row; justify-content: space-around;background-color: darkgrey; height:666px; margin-bottom: 11px;}
 
-#boxer {height: 444px; width: 222px; background-color: skyblue; margin: 11px}
+#boxer {height: 700px; width: 500px; background-color: skyblue; margin: 11px}
 #doberman {height: 555px; width:333px; background-color: skyblue; margin: 11px}
 
 #bird {display:flex; flex-direction: row; justify-content: space-between; background-color: darkgrey; height: 666px}
