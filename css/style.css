@@ -12,8 +12,8 @@ div {border:solid}
 #pagefour {background-color: #009933;}
 
 
-#cvone {display: block; height: 444px; margin: 11px; padding: 22px; border-style: double; text-align: justify}
-#cvtwo {display: block; height: 444px; margin: 11px; padding: 22px; border-style: double; text-align: justify}
+#cvone {display: block; height: 444px; margin: 11px; padding: 22px; border-style: double; text-align: justify; font-size: 22px;}
+#cvtwo {display: block; height: 444px; margin: 11px; padding: 22px; border-style: double; text-align: justify; font-size: 22px;}
 #cvthree {display: block; height: 444px; margin: 11px; padding: 22px; border-style: double; text-align: justify; font-size: 22px;}
 
 #investment {display: flex; justify-content: space-around; background-color: #9db3ff; border-style: none; font-size: 22px;}
