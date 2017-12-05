@@ -1,16 +1,40 @@
+body {color: #1C1F18; font-family: 'Voces';}
+
 div {border:solid}
 
-#cat {height: 33px; background-color: darkgrey; margin-bottom: 11px;text-align: center}
+.header {display:flex; justify-content: space-around; border-style: none;}
 
-#dog {display:flex; flex-direction: row; justify-content: space-around;background-color: darkgrey; height:888px; margin-bottom: 11px;}
+.headerlinks {display:flex; margin-right:0px; margin-left:20px; font-family:'open sans', serif; font-size: 33px}
 
-#boxer {height: 700px; width: 500px; background-color: skyblue; margin: 11px}
-#doberman {height: 777px; width:555px; background-color: skyblue; margin: 11px}
+#frontpage {background-color: #99ff99;}
+#pagetwo {background-color: #66ff66;}
+#pagethree {background-color: #33cc33;}
+#pagefour {background-color: #009933;}
 
-#bird {display:flex; flex-direction: row; justify-content: space-between; background-color: darkgrey; height: 666px}
 
-#crow {height: 222px;width: 111px; background-color: blue; margin:33px}
+#cvone {display: block; height: 444px; margin: 11px; padding: 22px; border-style: double; text-align: justify}
+#cvtwo {display: block; height: 444px; margin: 11px; padding: 22px; border-style: double; text-align: justify}
+#cvthree {display: block; height: 444px; margin: 11px; padding: 22px; border-style: double; text-align: justify}
 
-#sparrow {height: 333px;width: 111px; background-color: red; margin:33px}
+#investment {display: flex; justify-content: space-around; background-color: #9db3ff; border-style: none; font-size: 22px;}
+.estate {background-color: #2e20ff; border-style: none;}
 
-#kiwi {height: 444px; width: 111px; background-color: white; margin:33px}
+#cat {height: 777px; background-color: #b2320e; padding: 33px; text-align: justify; font-size: 22px;}
+
+#dog {display:flex; flex-direction: row; justify-content: space-around;background-color: #b26644; height:888px; margin-bottom: 11px;}
+
+#boxer {height: 375px; width: 500px; border-style: none; margin: 11px; text-align: justify}
+#doberman {height: 375px; width: 500px; border-style: none; margin: 11px; text-align: justify}
+
+#bird {display:flex; flex-direction: row; justify-content: space-between; vertical-align: center; background-color: #b28b77; height: 333px}
+ 
+#crow {height: 279px; width: 333px; background-color: blue; margin:22px; font-size: 77px; color: #ffffff; text-align: center}
+
+#sparrow {height: 285px; width: 500px; margin:22px; border-style: none;}
+
+#kiwi {height: 270px; width: 333px; background-color: white; padding: 3px; text-align: justify; margin:22px}
+
+.addressphoto {position: relative; text-align: center; border-style: none; color: #ffffff;}
+.address {position: absolute; top: 22px; right: 22px; border-style: none; font-size: 33px;}
+
+.footer { margin-left: 222px; margin-right: 222px; color: #ffffff; background-color: #993300; text-align: center; font-size: 33px;}
