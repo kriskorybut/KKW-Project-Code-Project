@@ -19,9 +19,9 @@ div {border:solid}
 #investment {display: flex; justify-content: space-around; background-color: #9db3ff; border-style: none; font-size: 22px;}
 .estate {background-color: #2e20ff; border-style: none;}
 
-#cat {height: 777px; background-color: #b2320e; padding: 33px; text-align: justify; font-size: 22px;}
+#cat {height: 666px; background-color: #b2320e; padding: 33px; text-align: justify; font-size: 22px;}
 
-#dog {display:flex; flex-direction: row; justify-content: space-around;background-color: #b26644; height:888px; margin-bottom: 11px;}
+#dog {display:flex; flex-direction: row; justify-content: space-around;background-color: #b26644; height:666px; margin-bottom: 11px; font-size: 22px;}
 
 #boxer {height: 375px; width: 500px; border-style: none; margin: 11px; text-align: justify}
 #doberman {height: 375px; width: 500px; border-style: none; margin: 11px; text-align: justify}
@@ -32,7 +32,7 @@ div {border:solid}
 
 #sparrow {height: 285px; width: 500px; margin:22px; border-style: none;}
 
-#kiwi {height: 270px; width: 333px; background-color: white; padding: 3px; text-align: justify; margin:22px}
+#kiwi {height: 270px; width: 333px; background-color: white; padding: 3px; text-align: center; margin:22px; font-size: 33px;}
 
 .addressphoto {position: relative; text-align: center; border-style: none; color: #ffffff;}
 .address {position: absolute; top: 22px; right: 22px; border-style: none; font-size: 33px;}
